@@ -11,6 +11,8 @@ public class Proje01 {
 	System.out.println("yeni degisiklik");
 	System.out.println("bidaha degisiklik");
 		System.out.println("git githup deneme");System.out.println("git githup deneme");System.out.println("git githup deneme");
+	
+	System.out.println("CAKISMA KODLARI HATA VERECEK == BILGISAYARDAN");
 	}
 
 }
