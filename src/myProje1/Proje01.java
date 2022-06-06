@@ -13,6 +13,7 @@ public class Proje01 {
 		System.out.println("git githup deneme");System.out.println("git githup deneme");System.out.println("git githup deneme");
 	
 	System.out.println("CAKISMA KODLARI HATA VERECEK == BILGISAYARDAN");
+	System.out.println("HATA DENEME");
 	}
 
 }
