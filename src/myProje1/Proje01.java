@@ -4,7 +4,10 @@ public class Proje01 {
 
 	public static void main(String[] args) {
 		System.out.println("git githup deneme");
-
+		System.out.println("git githup deneme");
+		System.out.println("git githup deneme");
+		System.out.println("git githup deneme");
+		System.out.println("git githup deneme"); // github daki degisiklikler
 	}
 
 }
